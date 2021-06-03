@@ -1,8 +1,6 @@
-import sys
 from pangeayt import *
 
-
-item_name = sys.argv[1]
+item_name = open("item_name.txt").read()
 recipes = get_recipes(item_name)
 
 for recipe in recipes:

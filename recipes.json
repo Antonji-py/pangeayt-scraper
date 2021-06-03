@@ -1,0 +1,17 @@
+[
+  {
+    "item_name": "Odznaka Yang Shina",
+    "recipes": [
+      {
+        "recipe_name": "Odznaka Yang Shina 1",
+        "product_amount": 2,
+        "ingredients": {"Order Czerwonego Wodza": 10, "Kamień Duszy Jinunggyi": 30, "Broszura Szermierki": 50}
+      },
+      {
+        "recipe_name": "Odznaka Yang Shina 2",
+        "product_amount": 2,
+        "ingredients": {"Kamień Beran-Setaou": 5, "Kamień Duszy Jinunggyi": 30, "Wątroba Gigant Maga": 50}
+      }
+    ]
+  }
+]

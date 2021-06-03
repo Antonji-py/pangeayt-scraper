@@ -55,12 +55,3 @@ def calculate_recipe(recipe):
     calculated_recipe["recipe_price"] = recipe_price
 
     return calculated_recipe
-
-
-item_to_found = "Odznaka Yang Shina"
-recipes = get_recipes(item_to_found)
-
-for recipe in recipes:
-    recipe_price = calculate_recipe(recipe)
-    print(recipe_price)
-    print()
